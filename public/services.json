@@ -1,0 +1,44 @@
+
+  [
+    {
+    "title": "Resource Flexibility",
+    "description": "This is an excellent option for people & small businesses who are starting out.",
+    "link": "service-details.html",
+    "iconBlack": "service-icon-black-1",
+    "iconOrange": "service-icon-orange-1",
+    "arrowBlack": "arrow-black",
+    "arrowOrange": "arrow-orange"
+  },
+  {
+    "title": "Managed Services",
+    "description": "This is an excellent option for people & small businesses who are starting out.",
+    "link": "service-details.html",
+    "iconBlack": "service-icon-black-2",
+    "iconOrange": "service-icon-orange-2",
+    "arrowBlack": "arrow-black",
+    "arrowOrange": "arrow-orange"
+  },
+  {
+    "title": "Web-Based Access",
+    "description": "This is an excellent option for people & small businesses who are starting out.",
+    "link": "service-details.html",
+    "iconBlack": "service-icon-black-3",
+    "iconOrange": "service-icon-orange-3",
+    "arrowBlack": "arrow-black",
+    "arrowOrange": "arrow-orange"
+  },
+  {
+    "title": "Resource Flexibility",
+    "description": "This is an excellent option for people & small businesses who are starting out.",
+    "link": "service-details.html",
+    "iconBlack": "service-icon-black-4",
+    "iconOrange": "service-icon-orange-4",
+    "arrowBlack": "arrow-black",
+    "arrowOrange": "arrow-orange"
+  }
+
+ 
+
+  ]
+
+
